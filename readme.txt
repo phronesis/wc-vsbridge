@@ -27,12 +27,12 @@ This section describes how to install the plugin and get it working.
 
 = Is Vue Storefront production ready? =
 
-Yes it is. There production deployments and more implementations being worked on.
+Yes it is. There are production deployments and more implementations are being worked on.
 
 
 == Screenshots ==
 
-1. This shows an example of what vue stofrefront pwa
+1. This shows an example of what vue stofrefront pwa looks like
 
 
 == Changelog ==
