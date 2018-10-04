@@ -32,7 +32,7 @@ Yes it is. There are production deployments and more implementations are being w
 
 == Screenshots ==
 
-1. This shows an example of what vue stofrefront pwa looks like
+1. This shows an example of what vue storefront pwa looks like
 
 
 == Changelog ==
